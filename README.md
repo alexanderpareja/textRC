@@ -1,5 +1,4 @@
 # TextRC: Text Relayed over RSS Channels
-TextRC is a lightweight tool designed to help users create and manage their own RSS channels for sharing simple, straightforward updates. It serves as a **valid alternative to modern social media**, embracing the simplicity and openness of RSS. The project is in its infancy, starting as a terminal-based application, with aspirations to evolve into a user-friendly graphical interface.
 
 ### Project Overview
 
