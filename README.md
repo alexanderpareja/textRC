@@ -1,4 +1,4 @@
-# TextRC: Text Relayed over RSS Channels
+# TextRC: Text RSS Channels
 
 ### Project Overview
 
